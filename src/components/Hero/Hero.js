@@ -5,7 +5,7 @@ export default function Hero() {
   return <Row>
       <div  className='heroContainer'>
           <div className='background'></div>
-            <Col md={6} className=' m-5'>
+            <Col md={5} className=' m-5'>
             <div className='textContainer'>
             <h4 className="gradient-text">
                 Full NFT Marketplace with Smart Contract
