@@ -6,6 +6,7 @@ import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
 import Platform from './components/Platform/Platform';
 import Roadmap from './components/Roadmap/Roadmap';
+import Social from './components/Social/Social';
 import Team from './components/Team/Team';
 import Wallet from './components/Wallet/Wallet';
 
@@ -19,6 +20,7 @@ function App() {
      <Roadmap />
      <Team />
      <Faq />
+     <Social />
      <Footer />
    </div>
   );

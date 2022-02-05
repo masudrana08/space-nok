@@ -22,7 +22,7 @@ export default function Team() {
           </Col>
       </Row>
       <Row className='d-flex justify-content-center'>
-          <Col md={3} xs={8} className='teamCard'>
+          <Col xs={5} md={3} className='teamCard'>
             <img src={P1} alt="" />
             <h5>Mandelief</h5>
             <p>I am a full stack developer</p>
@@ -39,12 +39,12 @@ export default function Team() {
                 <a href="#">
                 <AiFillLinkedin />
                 </a>
-                <a href="#">
+                {/* <a href="#">
                 <AiOutlineInstagram />
-                </a>
+                </a> */}
             </div>
           </Col>
-          <Col md={3} xs={8} className="teamCard">
+          <Col xs={5} md={3} className="teamCard">
             <img src={P2} alt="" />
             <h5>Serves</h5>
             <p>I am a full stack developer</p>
@@ -61,12 +61,12 @@ export default function Team() {
                 <a href="#">
                 <AiFillLinkedin />
                 </a>
-                <a href="#">
+                {/* <a href="#">
                 <AiOutlineInstagram />
-                </a>
+                </a> */}
             </div>
           </Col>
-          <Col md={3} xs={8} className='teamCard'>
+          <Col xs={5} md={3} className='teamCard'>
             <img src={P3} alt="" />
             <h5>Lara</h5>
             <p>I am a full stack developer</p>
@@ -83,12 +83,12 @@ export default function Team() {
                 <a href="#">
                 <AiFillLinkedin />
                 </a>
-                <a href="#">
+                {/* <a href="#">
                 <AiOutlineInstagram />
-                </a>
+                </a> */}
             </div>
           </Col>
-          <Col md={3} xs={8} className='teamCard'>
+          <Col xs={5} md={3} className='teamCard'>
             <img src={P4} alt="" />
             <h5>Weldel</h5>
             <p>I am a full stack developer</p>
@@ -105,12 +105,12 @@ export default function Team() {
                 <a href="#">
                 <AiFillLinkedin />
                 </a>
-                <a href="#">
+                {/* <a href="#">
                 <AiOutlineInstagram />
-                </a>
+                </a> */}
             </div>
           </Col>
-          <Col md={3} xs={8} className='teamCard'>
+          <Col xs={5} md={3} className='teamCard'>
             <img src={P5} alt="" />
             <h5>Ulke</h5>
             <p>I am a full stack developer</p>
@@ -127,12 +127,12 @@ export default function Team() {
                 <a href="#">
                 <AiFillLinkedin />
                 </a>
-                <a href="#">
+                {/* <a href="#">
                 <AiOutlineInstagram />
-                </a>
+                </a> */}
             </div>
           </Col>
-          <Col md={3} xs={8} className='teamCard'>
+          <Col xs={5} md={3} className='teamCard'>
             <img src={P6} alt="" />
             <h5>Locas</h5>
             <p>I am a full stack developer</p>
@@ -149,9 +149,9 @@ export default function Team() {
                 <a href="#">
                 <AiFillLinkedin />
                 </a>
-                <a href="#">
+                {/* <a href="#">
                 <AiOutlineInstagram />
-                </a>
+                </a> */}
             </div>
           </Col>
       </Row>
