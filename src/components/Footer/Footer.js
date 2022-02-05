@@ -10,27 +10,28 @@ import { AiOutlineInstagram } from 'react-icons/ai';
 export default function Footer() {
   return <>
   <div className="footerContainer  pt-5">
-      <Row className='gap-5'>
-          <Col className='about'>
+      <Row className='gap-5 d-flex justify-content-center'>
+          <Col xs={10} md={3} className='about'>
             <h4>About Us</h4>
             <p>
-                At the end of the day, going forward, a new normal that has evolved generation X is on the runway heading towards a streamlined cloud solution.
+                At the end of the day, going forward, a new normal that has evolved generation
+                end of the day, going forward, a new normal that 
             </p>
-            <div>
+            {/* <div>
                 <AiFillFacebook style={{fontSize:'32px', color:'rgb(165 165 163)'}} />
                 <AiFillTwitterSquare style={{fontSize:'32px', color:'rgb(165 165 163)'}} />
                 <AiFillGooglePlusSquare style={{fontSize:'32px', color:'rgb(165 165 163)'}} />
                 <AiFillLinkedin style={{fontSize:'32px', color:'rgb(165 165 163)'}} />
                 <AiOutlineInstagram style={{fontSize:'32px', color:'rgb(165 165 163)'}} />
-            </div>
+            </div> */}
           </Col>
-          <Col className='contact'>
+          <Col xs={10} md={3} className='contact'>
             <h4>Contact Us</h4>
             <p> 10, Mc Donald Avenue, Sunset Park, Newyork </p>
             <p> +99 999 9999</p>
             <p>info@yourdomain.com </p>
           </Col>
-          <Col className='newsletter'>
+          <Col xs={10} md={3} className='newsletter'>
             <h4>Newsletter</h4>
             <p>
             Stay Updated with our latest news. We promise not to spam

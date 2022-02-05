@@ -12,10 +12,16 @@
 .about, .contact, .newsletter{
     padding: 0 30px
 }
-.about p, .contact p, .newsletter p{
+.about p, .newsletter p{
     margin: 22px 0;
+    line-height: 30px;
 }
-
+.contact p{
+    margin: 10px
+}
+.contact h4{
+    margin-bottom: 20px;
+}
 .newsletter input{
     border-radius: 30px;
     padding: 5px 15px;
