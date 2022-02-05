@@ -1,0 +1,21 @@
+.faqContainer{
+    background-color: #03091f;
+    color: white;
+    padding-bottom: 100px;
+}
+
+.faqContainer .title{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.accordion{
+    background-color: #0a1026;
+    color: white;
+}
+.accordion-button{
+    background-color: #0a1026;
+    color: white;
+    margin: 5px 0;
+}

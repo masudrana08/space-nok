@@ -1,0 +1,39 @@
+.teamContainer{
+    background-color: #03091f;
+    color: white;
+    padding-top: 150px;;
+    padding-bottom: 100px;
+}
+
+.teamContainer .title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.teamCard{
+    background-color: #0a1026;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 5px;
+}
+.teamCard a{
+    text-decoration: none;
+    color: white
+}
+.teamCard h5{
+    margin: 10px 0;
+
+}
+
+.teamCard svg{
+    font-size: 20px;
+    margin: 0 2px;
+}
+.teamCard img{
+    height: 70px;
+    border-radius: 50px;
+    border: 3px solid white;
+}
