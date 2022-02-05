@@ -11,6 +11,7 @@
     padding:30px 20px;
     text-align: center;
     margin: 5px 50px;
+    min-width: 200px;
 }
 .roadmap-card::before{
     content: '';

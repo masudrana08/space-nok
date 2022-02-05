@@ -13,7 +13,7 @@
     height: 80%;
     background-image: url('../../images/hero-back.png');
     background-repeat: no-repeat;
-    opacity: 0.3;
+    opacity: 0.05;
     animation: mymove 15s;
     animation-iteration-count: infinite;
 }

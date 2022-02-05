@@ -17,7 +17,7 @@ export default function Social() {
           </h3>
         </Col>
       </Row>
-      <Row className='d-flex justify-content-center'>
+      <Row className='d-flex justify-content-center ml-0'>
         <Col xs={10} md={8} className='socialBtn'>
           <div className="singleBtn">
           <a href="#">
