@@ -13,7 +13,7 @@ export default function Platform() {
           <h5 className="gradient-text">How Platform Works</h5>
           <h2 className='mt-3 mb-3'>Start With Easy Steps</h2>
           <p className='p-text'>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo quo laboriosam, dolorum ducimus aliquam consequuntur dolor sit amet, consectetur adipisicing elit. Nemo quo laboriosam, dolorum ducimus!
+          Start your NFT journey by choosing a blockchain platform, getting a wallet, buying cryptocurrency, finding a marketplace, and browsing and purchasing unique digital assets. Own a piece of digital history today!
           </p>
         </Col>
     </Row>
@@ -22,7 +22,7 @@ export default function Platform() {
         <img src={Wallet} alt="" />
         <h5>Set up your wallet</h5>
         <p>
-        it is required to install Metamask wallet as a browser extension, Then you should configure Metamask to connect to required ETH Network.
+        It is required to install Metamask wallet as a browser extension, Then you should configure Metamask to connect to required ETH Network.
         </p>
       </Col>
       <Col md={2} xs={8} className="card">

@@ -14,7 +14,7 @@ export default function Hero() {
                 Discover, Buy and Sell NFT Assets The Easy Way
             </h1>
             <p>
-                Lorem ipsum dolor sit amet, adipisicing elit. Quod corrupti laborum, quasi? Dolor sapiente amet optio harum dolores, voluptate, tempora dolorem fugiat fuga autem .
+            Discover the future of ownership with NFTs. Buy and sell unique digital assets with confidence on our marketplace. Own a piece of digital history today!
             </p>
             <button className="gradient-btn">Get Started</button>
             <button className="gradient-btn">Learn more</button>

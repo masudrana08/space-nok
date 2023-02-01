@@ -36,7 +36,7 @@ export default function Footer() {
             <p>
             Stay Updated with our latest news. We promise not to spam
             </p>
-            <input type="text" placeholder='Your Email' />
+            <input className='mailbox' type="text" placeholder='Your Email' />
           </Col>
       </Row>
       <Row>
