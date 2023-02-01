@@ -9,7 +9,7 @@ import Roadmap from './components/Roadmap/Roadmap';
 import Social from './components/Social/Social';
 import Team from './components/Team/Team';
 import Wallet from './components/Wallet/Wallet';
-
+ 
 function App() {
   return (
    <div>

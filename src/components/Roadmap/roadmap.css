@@ -1,6 +1,6 @@
 .roadmapContainer{
     background-color: #03091f;
-    color: white;
+    color: rgb(227, 225, 225);
     padding-top: 100px;
 }
 .roadmapContainer .title{
@@ -27,7 +27,7 @@
 
 /* Modify Carousel  */
 .carousel{
-    border-top: 7px solid white;
+    border-top: 7px solid rgb(227, 225, 225);
 }
 
 /* .react-multiple-carousel__arrow--left::before{

@@ -1,6 +1,6 @@
 .platformContainer{
 background-color: #03091f;
-    color: white;
+    color: rgb(227, 225, 225);
     text-align: center;
     width: 100%;
 }
@@ -18,7 +18,7 @@ background-color: #03091f;
     padding: 20px;
 }
 .card p{
-    color: rgb(235, 235, 245);
+    color: rgb(227, 225, 225);
     font-size: 15px;
     letter-spacing: 0.6px;
     line-height: 27px;
